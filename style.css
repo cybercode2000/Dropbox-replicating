@@ -1,0 +1,138 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card {
+
+    padding: 10px;
+    background-size: cover; 
+    width: 400px;
+    height: 560px;
+    top: 40%;
+    padding: 10px;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+#or {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+.header {
+    display: inline-flex;
+}
+
+
+#remember {
+    border-radius: 0px;
+    border: 1px solid gray;
+
+
+}
+
+.form {
+    padding: 0px;
+    margin: 0px;
+}
+
+#sign {
+    margin-top: 50px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+span {
+    color: blue;
+}
+
+#name, #password{
+    margin-top: 20px;
+    padding: 12px;
+    width: 100%;
+    height: 20px;
+    border-radius: 0px;
+    border: 1px solid gray;
+}
+.word {
+    margin-top: 20px;
+    color: gray;
+    font-size: 16px;
+    width: 450px;
+    font-family: arial;
+}
+
+.word p {
+    margin: 3px;
+
+}
+
+.box {
+    margin: 20px;
+    margin-left: 0px;
+    padding: 0px;
+    color: gray;
+}
+
+#button {
+    width: 380px;
+    padding: 10px;
+    border-radius: 0px;
+    border: 1px solid gray;
+    font-family: arial;
+    height: 40px;
+    font-weight: bold;
+    margin-top: 15px;
+    background-color: blue;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+#google {
+    height: 20px;
+    padding-top: 5px;
+}
+
+#signin {
+    
+    width: 380px;
+    height: 40px;
+    margin-top: 8px;
+    font-size: 14px;
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+
+#name1 {
+    margin-left: 10px;
+}
+
+#d {
+    display: inline-flex;
+    margin-top: 5px;
+    font-family: arial;
+    font-size: 15px;
+    margin-left: 5px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+}
+
+#forgot {
+    cursor: pointer;
+}
